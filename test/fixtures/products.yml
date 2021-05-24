@@ -1,0 +1,16 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: 'first product'
+  price: 1
+  published: 1
+  shop: one
+  quantity: 10
+
+
+two:
+  title: 'second product'
+  price: 1
+  published: 1
+  shop: two
+  quantity: 10
